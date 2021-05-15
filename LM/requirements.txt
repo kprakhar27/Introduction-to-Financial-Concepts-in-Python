@@ -1,0 +1,5 @@
+flask
+numpy
+numpy_financial
+pandas
+gunicorn
